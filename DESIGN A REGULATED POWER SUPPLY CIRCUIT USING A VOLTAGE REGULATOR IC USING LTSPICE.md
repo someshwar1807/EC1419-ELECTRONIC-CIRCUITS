@@ -8,13 +8,7 @@
 
 
 ## Graph
-<img width="921" height="1600" alt="image" src="https://github.com/user-attachments/assets/206fb941-6344-491c-b080-cfe49464983b" />
+![9P](https://github.com/user-attachments/assets/efc204fa-e87c-4a02-8bc7-c3e5d029b052)
 
-
-## CIRCUIT DIAGRAM
-<img width="1517" height="1600" alt="image" src="https://github.com/user-attachments/assets/51908e83-023c-4841-8478-0f9a8e6d07ef" />
-
-
-
-<img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
-
+## RESULT 
+![10P](https://github.com/user-attachments/assets/f62414ee-2a92-401d-a0f2-eb08d60bc24f)
