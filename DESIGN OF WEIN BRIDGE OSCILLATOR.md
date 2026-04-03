@@ -13,19 +13,11 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## CIRCUIT DIAGRAM
-<img width="890" height="1600" alt="image" src="https://github.com/user-attachments/assets/42948e03-5105-4a25-bd40-982ba9d8c608" />
-
-
 ## Graph
+![6P](https://github.com/user-attachments/assets/62415f64-d8fe-4db4-830d-a2e12addacb2)
 
-<img width="949" height="1600" alt="image" src="https://github.com/user-attachments/assets/378de1ae-ed17-4f1d-9373-8ab12040e2d5" />
 ## CALCULATION
-<img width="1433" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8e8048b-4750-4926-aa17-8a588620b820" />
+![7p](https://github.com/user-attachments/assets/e9e383c6-2a60-424d-8498-2a345cf24089)
 
-
-
-Practical frequency of Oscillation = 159.2 HZ
-
-
-Theoritical Frequency of Oscillation = 159 HZ
+## RESULT
+![8p](https://github.com/user-attachments/assets/ee1ce657-bf8b-42e4-a088-ed77f8b99ff3)
