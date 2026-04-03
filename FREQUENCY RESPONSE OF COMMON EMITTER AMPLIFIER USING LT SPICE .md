@@ -3,6 +3,12 @@
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
 <img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/3081429d-e3e1-492c-bbcd-708b36faee25" />
+ 
+## CIRCUIT DAIGRAM
+![5P](https://github.com/user-attachments/assets/f96f15ac-77d6-4903-965f-5c7d53165e3a)
+
+## MODEL GRAPH
+<img width="452" height="358" alt="4P" src="https://github.com/user-attachments/assets/2e328f83-1ac7-4b5e-94be-463bb32dccf0" />
 
 ## Design
 <img width="878" height="209" alt="image" src="https://github.com/user-attachments/assets/8c8022b5-cbc7-4450-8a77-077c14ade73d" />
@@ -12,23 +18,12 @@
 <img width="831" height="356" alt="image" src="https://github.com/user-attachments/assets/867e75f5-43f2-408f-b6fb-ed6b909db367" />
 
 
-## CIRCUIT DIAGRAM
-<img width="1256" height="1280" alt="image" src="https://github.com/user-attachments/assets/25943019-b4b5-44d8-969f-a02c72b3f354" />
-
-
-## MODEL GRAPH
-<img width="811" height="1280" alt="image" src="https://github.com/user-attachments/assets/e278b013-bc76-4c23-8fc6-047b78b8f85a" />
-
-
 ## Calculation
-![WhatsApp Image 2026-03-30 at 8 27 22 PM](https://github.com/user-attachments/assets/89d3d959-15ee-4c47-8f14-e54be04430b0)
+![2p](https://github.com/user-attachments/assets/dc0883cd-575c-4ca9-8340-d52b9ab7b00b)
 
 
 ## Graph
-![WhatsApp Image 2026-03-30 at 8 26 32 PM](https://github.com/user-attachments/assets/a12dfea0-e855-4058-9e57-221f27488dee)
-
+![1p](https://github.com/user-attachments/assets/dd6d8226-b46d-4681-aafe-b62607d3ef0b)
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
-
-
+![3p](https://github.com/user-attachments/assets/ca8f694b-81ca-4b13-90a5-8e22981397b3)
